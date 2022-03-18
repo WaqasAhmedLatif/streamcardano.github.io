@@ -1,7 +1,7 @@
 ---
 title: "Demo for BS5"
 date: 2018-11-19T10:47:58+10:00
-draft: false
+draft: true
 image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
 jobtitle: "Demo for BS5"
 linkedinurl: ""
