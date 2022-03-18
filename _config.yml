@@ -60,7 +60,8 @@ sitemap:
     change_frequency_name: "change_frequency"
     priority_name: "priority"
 
-theme: alembic-jekyll-theme
+remote-theme: daviddarnes/alembic@main
+#theme: alembic-jekyll-theme
 
 # Site navigation
 navigation:
