@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 public/
 node_modules
+_image_optim_archive
+.jekyll-cache
+cache
